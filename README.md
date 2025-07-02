@@ -21,12 +21,13 @@ It served as a guide during the lab setup phase, ensuring that all items were pl
 - Drafting and Layout Modules  
 
 ## Files Included
-- `TinkersLab_Layout.dwg` – Main AutoCAD drawing file  
-- `TinkersLab_Layout.pdf` – Printable view of the floor plan  
-- `README.md` – Project documentation  
+- AutoCAD file for LAB 1  
+- AutoCAD file for LAB 2 
+- Images of the drawings
 
 ## Preview
-*Insert image or PDF preview of the lab layout here*
+
+![Screenshot 2024-12-04 144526](https://github.com/user-attachments/assets/494a6533-249c-4ab7-8a36-2ca9e95fb988)
 
 ## License
 This project is intended for **educational and non-commercial use only**. All drawings are original and created to assist in lab setup and CAD learning.
