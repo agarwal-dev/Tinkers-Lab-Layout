@@ -17,7 +17,7 @@ It served as a guide during the lab setup phase, ensuring that all items were pl
 - Improved layout planning for **real-world engineering environments**
 
 ## Tools Used
-- **AutoCAD 2025**  
+- **AutoCAD 2023**  
 - Drafting and Layout Modules  
 
 ## Files Included
