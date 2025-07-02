@@ -23,7 +23,6 @@ It served as a guide during the lab setup phase, ensuring that all items were pl
 ## Files Included
 - AutoCAD file for LAB 1  
 - AutoCAD file for LAB 2 
-- Images of the drawings
 
 ## Preview
 
